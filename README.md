@@ -1,4 +1,6 @@
-## Features
+Kotlin ile Basit Yapılacaklar Listesi
+
+## Ozellikler
 
 - TO-DO Ekleyebilirsiniz
 - TO-DO Yapıldı Olarak tikleyebilirsiniz
